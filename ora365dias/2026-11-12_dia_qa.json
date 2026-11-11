@@ -1,0 +1,28 @@
+{
+ "main": {
+  "path": "/workspace/oracion/ora365dias/2026-11-12/dia/oracion_2026-11-12_dia.mp4",
+  "bytes": 31607296,
+  "duration": 127.036,
+  "lufs": -16.1,
+  "true_peak_dbtp": -3.3
+ },
+ "youtube": null,
+ "video": "720x1280 30fps h264 2-pass 1850k tv-range bt709, AAC 128k 48 kHz, faststart",
+ "look": "clips de día al 70 % de opacidad sobre negro, ligera desaturación y calor, grano de luma, polvo/rayas (polvo.mp4 screen 35 %); cortes secos en final de frase (sin fundido a negro entre planos; se evitó el fade-in de origen empezando en t=3 s); Ken Burns lento (zoom o paneo suave); fundido a negro solo en los últimos 1,5 s",
+ "slot": "dia",
+ "spoken_greeting": "Buenos días.",
+ "spoken_date": "Hoy es jueves 12 de noviembre.",
+ "counter": "[050/dias]",
+ "subs": "subs_v5 (Nimbus Mono PS 35.4, hasta 3 líneas, centradas; contador 30 pt en y 1036/1064: Faltan / [050/dias])",
+ "clips_used": 8,
+ "photos_used": 0,
+ "stills": [
+  "/workspace/oracion/ora365dias/2026-11-12/dia/qa/01_saludo_niebla.jpg",
+  "/workspace/oracion/ora365dias/2026-11-12/dia/qa/02_prado_tranquilidad.jpg",
+  "/workspace/oracion/ora365dias/2026-11-12/dia/qa/03_flores_corazon.jpg",
+  "/workspace/oracion/ora365dias/2026-11-12/dia/qa/04_nubes_este_dia.jpg",
+  "/workspace/oracion/ora365dias/2026-11-12/dia/qa/05_dalia_amen.jpg"
+ ],
+ "drive_notes": "Carpeta Drive solo tenía vídeos (Videos Silas), ninguna foto de nubes. 30 vídeos descargados; 3 más aparecieron tras el render (uno de día, dos de noche) y no se incluyeron. Las 10 fotos de nubes del chat no llegaron a la caja ni a Drive.",
+ "published": false
+}
